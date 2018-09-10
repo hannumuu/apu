@@ -1,0 +1,2 @@
+# apu
+Sekalaisia koodinpätkiä 
